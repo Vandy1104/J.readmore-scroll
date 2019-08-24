@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background: cyan; }
+
+.fas {
+  margin: 30px;
+  color: blue;
+  font-size: 50px; }
+
+h2 {
+  margin-top: 100px;
+  text-align: center;
+  color: blue;
+  font-size: 30px; }
+
+.Imgdiv {
+  width: 80%;
+  margin: 50px auto; }
+  .Imgdiv .logo {
+    width: 150px;
+    display: block;
+    margin: auto; }
+
+.Rbtn, .Lbtn {
+  width: 75px;
+  height: 30px;
+  margin: 10px 30px;
+  background: white; }
+
+#variables {
+  width: 150px;
+  display: block;
+  margin: auto;
+  height: 40px;
+  background: white;
+  color: blue;
+  font-size: 30px; }
+
+/*# sourceMappingURL=style.css.map */
